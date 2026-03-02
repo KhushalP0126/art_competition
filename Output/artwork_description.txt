@@ -1,0 +1,5 @@
+This artwork explores how mathematics can move closer to art.
+
+An AI pipeline was fine-tuned on dorsal butterfly pattern datasets to construct an idealized dorsal form. The final pattern was synthesized from a selected set of 40 dorsal-view specimens. This subset was intentionally limited, even though the API-collected dataset contained a much larger number of dorsal records, to keep the reconstruction controlled and compositionally coherent.
+
+The piece combines computational structure and visual interpretation: mathematical line systems, symmetry constraints, and learned dorsal features are merged into a single ideal pattern that represents many specimens through one artistic form.

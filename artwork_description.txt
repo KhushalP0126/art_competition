@@ -1,0 +1,5 @@
+Artwork Description: butterFLAI
+
+This project explores the idea that math is closer to art than we often assume. Using AI, I fine-tuned a model on dorsal butterfly pattern datasets to generate an idealized dorsal pattern. The final visual was synthesized from a selected set of 40 dorsal patterns, which served as the core reference group for pattern reconstruction and artistic interpretation.
+
+The dataset available through the API contains a much larger number of dorsal-view samples than could be fully processed in this submission scope, so the model was intentionally limited to a curated subset of 40 patterns for consistency and feasibility. The API collection and dataset workflow are documented in text for this project, not embedded directly as code in this file.
